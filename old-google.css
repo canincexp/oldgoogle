@@ -1,0 +1,55 @@
+.logo {
+    margin: 80px 600px ;
+}
+.searchbar{
+    text-align: center;
+    background-color:#DCDCDC;
+    height: auto ;
+    width: 1510px;
+}
+
+#bar {
+    width: 300px;
+}
+
+.btn {
+    margin-top:4px;
+}
+
+.ortala{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+    margin: 3px 3px 0 0 ;
+    width: 33%;
+    text-align: center;
+    background-color: #13cad4;
+    float: left;
+    padding: 8px 0px;
+    height: 90px;
+}
+.box2{
+    margin: 3px 3px 0 0 ;
+    width: 33%;
+    text-align: center;
+    background-color: #41bec4;
+    float: left;
+    padding: 8px 0px;
+    height: 90px;
+}
+.box3 {
+    margin: 3px 3px 0 0 ;
+    width: 33%;
+    text-align: center;
+    background-color: #3c888c;
+    padding: 8px 0px;
+    height: 90px;
+    float: left;
+    
+}
+
+#footer {
+    text-align: center;
+}
